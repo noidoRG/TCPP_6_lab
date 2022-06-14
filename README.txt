@@ -1,2 +1,2 @@
-Laboratory work №6
-Prepared by Gladyshev Rodion
+Лабораторная работа №6
+Приготовил Гладышев Родион
